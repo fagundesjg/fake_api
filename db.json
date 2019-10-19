@@ -35,6 +35,24 @@
       "urlImg": "https://static.natura.com/cdn/farfuture/nJe2-4-DNq4-ubVb1XXqdESU6tYHiMoVnYwZ5ci4NZg/1571230850/sites/default/files/products/90950_1_2.jpg",
       "description": "Refil muito mais prático de usar! Basta colocar sua tampa no novo frasco. Fácil de usar para você aproveitar a embalagem do seu desodorante preferido e ter toda a proteção para o corpo e axila com tecnologia desodorante contra odores da transpiração e perfumação com fragrância de Luna.",
       "installments": 12
+    },
+    {
+      "id": 5,
+      "name": "Desodorante e Hidratante Corporal Cereja e Avelã",
+      "price": 42.5,
+      "discount": 39,
+      "urlImg": "https://static.natura.com/cdn/farfuture/KX2sdVjlGZHZLH7-D8-Y0M4zaEyRDBAc5P-cfpO4TZ8/1571231434/sites/default/files/products/78694_2.jpg",
+      "description": "Com fragrância inspirada na combinação envolvente das cerejas com a cremosidade das nozes de avelã, o Desodorante Hidratante Corporal Cereja e Avelã Tododia deixa sua pele macia, hidratada e com um perfume delicioso.",
+      "installments": 12
+    },
+    {
+      "id": 6,
+      "name": "Desodorante Roll-on natura Homem Intenso",
+      "price": 17.4,
+      "discount": 8.9,
+      "urlImg": "https://static.natura.com/cdn/farfuture/O2ovYCY-z-IEHeJBWI-Yq2ChDxFL4qG7HDgJiIewUXk/1571230962/sites/default/files/styles/product_detail_square/public/products/61379_1_0.jpg?itok=jaL2ltAB",
+      "description": "O desodorante roll-on Natura Homem Intenso foi desenvolvido para manter você protegido e perfumado, sem irritar a sua pele, e com a clássica fragrância da linha.",
+      "installments": 12
     }
   ]
 }
