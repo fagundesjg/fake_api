@@ -1,4 +1,13 @@
 {
+  "backendHackathon": {
+    "saude": 0.7,
+    "taxaDeAdesao": { "valor": 0.1, "variacaoReferecia": 0.5 },
+    "taxaDeEvasao": { "valor": 0.1, "variacaoReferecia": 0.5 },
+    "taxaDeResgate": { "valor": 0.1, "variacaoReferecia": 0.5 },
+    "ticketMedio": { "valor": 0.1, "variacaoReferecia": 0.5 },
+    "receitaTotal": { "valor": 0.1, "variacaoReferecia": 0.5 },
+    "volumeDeVendaFidelizadas": { "valor": 0.1, "variacaoReferecia": 0.5 }
+  },
   "products": [
     {
       "id": 1,
